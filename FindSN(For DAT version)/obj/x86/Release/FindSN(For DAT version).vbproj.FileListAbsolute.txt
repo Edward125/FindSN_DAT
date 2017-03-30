@@ -1,0 +1,14 @@
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN_For_DAT_version_.frmAddUser.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN_For_DAT_version_.frmLog.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN_For_DAT_version_.frmMain.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN_For_DAT_version_.frmSetting.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN_For_DAT_version_.frmTopass.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN_For_DAT_version_.Resources.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN(For DAT version).vbproj.GenerateResource.Cache
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Release\FindSN(For DAT version) 1.14.exe.config
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Release\FindSN(For DAT version) 1.14.exe
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Release\FindSN(For DAT version) 1.14.pdb
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Release\FindSN(For DAT version) 1.14.xml
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN(For DAT version) 1.14.exe
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN(For DAT version) 1.14.xml
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Release\FindSN(For DAT version) 1.14.pdb

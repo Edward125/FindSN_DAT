@@ -1,0 +1,31 @@
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version).exe
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version).pdb
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version).xml
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmMain.resources
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.Resources.resources
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN(For DAT version).exe
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN(For DAT version).xml
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN(For DAT version).pdb
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version).exe.config
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmSetting.resources
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmLog.resources
+F:\Edward's Projects\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmTopass.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmLog.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmMain.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmSetting.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmTopass.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.Resources.resources
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version) 1.1.exe.config
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version) 1.1.exe
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version) 1.1.pdb
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\bin\Debug\FindSN(For DAT version) 1.1.xml
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN(For DAT version) 1.1.exe
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN(For DAT version) 1.1.xml
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN(For DAT version) 1.1.pdb
+E:\Edward\FindSN(For DAT version)\FindSN(For DAT version)\obj\x86\Debug\FindSN_For_DAT_version_.frmAddUser.resources
